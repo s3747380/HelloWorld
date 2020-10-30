@@ -35,3 +35,5 @@ for index in greeting.indices{
     print(index, greeting[index])
 }
 // this is my comment
+
+print("Quang" , "Tran")
